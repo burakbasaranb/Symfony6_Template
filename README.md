@@ -124,6 +124,8 @@ In relevant files like `templates/base.html.twig` or `templates/lucky/number.htm
 <h1>{{ 'menu.lucky_number'|trans }}</h1>
 ```
 
+---
+
 By following these detailed steps, you'll successfully integrate the "Lucky Number" page and Symfony translation features into your project. Feel free to adapt and extend these instructions based on your specific project requirements.
 
 ## How to Use
